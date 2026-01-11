@@ -119,6 +119,9 @@ certifications:
 - `npm run format` - Format code with Prettier
 - `npm run format:check` - Check if code is properly formatted
 - `npm run validate-resume` - Validate the resume.yaml file
+- `npm run test` - Run unit tests in watch mode
+- `npm run test:run` - Run unit tests once
+- `npm run test:ui` - Run unit tests with UI
 - `npm run deploy` - Deploy to GitHub Pages
 
 ### Code Quality
