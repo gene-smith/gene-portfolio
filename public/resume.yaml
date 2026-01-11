@@ -37,6 +37,7 @@ skills:
   - "OpenAI"
   - "Claude"
   - "Warp.Dev"
+  - "Gemini"
   - "Python"
   - "PostgreSQL"
   - "Git"
@@ -51,6 +52,9 @@ skills:
   - "Pardot"
 
 certifications:
+  - title: "Google Generative AI Leader Certification"
+    issuer: "Google Cloud"
+    year: "2026"
   - title: "AWS Certified Solutions Architect"
     issuer: "Amazon Web Services"
     year: "2020"
