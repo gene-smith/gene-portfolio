@@ -1,5 +1,3 @@
-import React from 'react'
-
 const ResumeSection = ({ resumeData }) => {
   if (!resumeData) return null
 

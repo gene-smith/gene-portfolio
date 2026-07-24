@@ -84,7 +84,7 @@ function Projects() {
           initial='hidden'
           animate='visible'
         >
-          {projectsData.map((project, index) => {
+          {projectsData.map(project => {
             return (
               <motion.div
                 key={project.id}
