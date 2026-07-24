@@ -1,7 +1,12 @@
 experience:
+  - position: "CEO / CTO"
+    company: "Global Ujamaa / Durham, NC"
+    duration: "2026 - Present"
+    details: "Provides enterprise-grade marketing technology strategy and leadership — built for growing businesses that aren’t enterprises yet."
+
   - position: "Solutions Architect"
     company: "Zoro, Inc. / Chicago, IL"
-    duration: "2022 - Present"
+    duration: "2022 - 2026"
     details: "Provides holistic technology solution architectures across all areas of the marketing technology stack, including Customer Data Platform (CDP) strategy and implementation."
   
   - position: "Vice President, Technical Production"
@@ -43,8 +48,7 @@ skills:
   - "Git"
   - "Hightouch CDP"
   - "Segment CDP"
-  - "Salesforce"
-  - "Looker"
+  - "Salesforce Marketing Cloud"
   - "BigQuery"
   - "Amazon AWS"
   - "Google Cloud"
